@@ -16,17 +16,17 @@ Below is a table listing all the datasets used to train the TheraGen LLM model, 
 | KelvinTichana2/mentalhealthcurated                         | [Hugging Face](https://huggingface.co/datasets/KelvinTichana2/mentalhealthcurated) |
 | MaggiePai/mental health counseling conversations           | [Hugging Face](https://huggingface.co/datasets/MaggiePai/mental_health_counseling_conversations) |
 | Kiran2004/MentalHealthConversations                        | [Hugging Face](https://huggingface.co/datasets/Kiran2004/MentalHealthConversations) |
-| hizardev/MentalHealth-Counseling-part1                     | [Hugging Face](https://huggingface.co/datasets/hizardev/MentalHealth-Counseling-part1) |
-| hizardev/MentalHealth-Counseling-part2                     | [Hugging Face](https://huggingface.co/datasets/hizardev/MentalHealth-Counseling-part2) |
-| hizardev/MentalHealth-Counseling-part3                     | [Hugging Face](https://huggingface.co/datasets/hizardev/MentalHealth-Counseling-part3) |
-| hizardev/MentalHealth-Counseling-part4                     | [Hugging Face](https://huggingface.co/datasets/hizardev/MentalHealth-Counseling-part4) |
+| hizardev/MentalHealth-Counseling-part1                     |  |
+| hizardev/MentalHealth-Counseling-part2                     |  |
+| hizardev/MentalHealth-Counseling-part3                     |  |
+| hizardev/MentalHealth-Counseling-part4                     |  |
 | samhog/psychology-10k                                      | [Hugging Face](https://huggingface.co/datasets/samhog/psychology-10k) |
 | jkhedri/psychology-dataset                                 | [Hugging Face](https://huggingface.co/datasets/jkhedri/psychology-dataset) |
 | jkhedri/psychology-dataset-split                           | [Hugging Face](https://huggingface.co/datasets/jkhedri/psychology-dataset-split) |
 | samhog/psychology-6k                                       | [Hugging Face](https://huggingface.co/datasets/samhog/psychology-6k) |
 | samhog/psychology-RLAIF                                    | [Hugging Face](https://huggingface.co/datasets/samhog/psychology-RLAIF) |
 | raflibagas/PsychologistSamhog                              | [Hugging Face](https://huggingface.co/datasets/raflibagas/PsychologistSamhog) |
-| heliosbrahma/mental-health-conversational-dataset          | [Hugging Face](https://huggingface.co/datasets/heliosbrahma/mental-health-conversational-dataset) |
+| heliosbrahma/mental-health-conversational-dataset          |  |
 | ZahrizhalAli/mental-health-conversational-dataset          | [Hugging Face](https://huggingface.co/datasets/ZahrizhalAli/mental-health-conversational-dataset) |
 | mpingale/mental-health-chat-dataset                        | [Hugging Face](https://huggingface.co/datasets/mpingale/mental-health-chat-dataset) |
 | chansung/mental-health-counseling-conversationsmerged      | [Hugging Face](https://huggingface.co/datasets/chansung/mental-health-counseling-conversations-merged) |
